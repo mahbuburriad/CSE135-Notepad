@@ -1,4 +1,4 @@
-[
+
   { name: "Afghanistan", dial_code: "+93", code: "AF", flag: "🇦🇫" },
   { name: "Åland Islands", dial_code: "+358", code: "AX", flag: "🇦🇽" },
   { name: "Albania", dial_code: "+355", code: "AL", flag: "🇦🇱" },
@@ -474,5 +474,4 @@
   },
   { name: "Yemen", dial_code: "+967", code: "YE", flag: "🇾🇪" },
   { name: "Zambia", dial_code: "+260", code: "ZM", flag: "🇿🇲" },
-  { name: "Zimbabwe", dial_code: "+263", code: "ZW", flag: "🇿🇼" },
-  ]
+  { name: "Zimbabwe", dial_code: "+263", code: "ZW", flag: "🇿🇼" }
